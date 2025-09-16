@@ -1,0 +1,5 @@
+Create a class Bug with fields: id, description, status.
+Write a constructor that sets all fields.
+Create an ArrayList<Bug> and add 3 bugs to it.
+Print all bug details.
+
