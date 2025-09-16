@@ -1,0 +1,6 @@
+Create a class WebElementButton with fields: id, label.
+Add constructor chaining:
+WebElementButton(String id) → default label = "Button".
+WebElementButton(String id, String label) → sets both.
+Use a HashSet<WebElementButton> to store unique buttons (no duplicates allowed).
+Print all unique buttons.
