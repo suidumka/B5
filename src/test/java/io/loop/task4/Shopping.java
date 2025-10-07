@@ -6,23 +6,24 @@ public class Shopping {
 
 
     public int getPrice() {
-        return  price;
+        return price;
     }
 
-    public void setPrice(int price ) {
+    public void setPrice(int price) {
         this.price = price;
     }
+
     public String getItemName() {
         return itemName;
 
     }
+
     public void setItemName(String itemName) {
         this.itemName = itemName;
     }
 
 
-
-
-
 }
+
+
 
