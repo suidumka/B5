@@ -3,7 +3,6 @@ package io.loop.task4;
 public class Activity extends SideMenuElement {
     public static void click (String button){
 
-
         System.out.println("Double click " + button);
 
     }
@@ -15,7 +14,7 @@ public class Activity extends SideMenuElement {
 
     public static void main(String[] args) {
         click("Activity");
-
+        click("activity button");
     }
 
 }
